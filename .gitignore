@@ -22,3 +22,6 @@ yarn-error.log*
 
 #idea文件
 .idea
+
+*/less/*.css
+*/less/*.css.map

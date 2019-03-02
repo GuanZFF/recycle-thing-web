@@ -1,4 +1,5 @@
 root = true
 
-[*.{jsx,js}]
-indent_size = tab
+[*.{jsx,js,less,css.json}]
+indent_style = space
+indent_size = 4
